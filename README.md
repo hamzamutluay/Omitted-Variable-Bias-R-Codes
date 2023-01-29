@@ -1,4 +1,4 @@
-# A Monte Carlo Study with R codeS
+# A Monte Carlo Study in R 
 
 ---
 ```
