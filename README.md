@@ -1,4 +1,4 @@
-# A Monte Carlo Study with R codes-Inconsistent and biased estimator
+# A Monte Carlo Study with R codeS
 
 ---
 ```
